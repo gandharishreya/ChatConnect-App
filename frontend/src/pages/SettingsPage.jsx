@@ -1,5 +1,5 @@
 import React from 'react'
-import { useThemeStore } from '../store/useThemeStore'
+import { useThemeStore } from '../store/useThemeStore.js'
 import {THEMES} from "../constants"
 import { Send } from 'lucide-react';
 const SettingsPage = () => {
